@@ -37,7 +37,7 @@ Concepts:    OOP, DSA, File Handling
 
 * *LeetCode:* 5+ problems solved and counting
 
-[![LeetCode](https://leetcard.jacoblin.cool/aryankumarrai?theme=dark\&font=Karma\&ext=contest)](https://leetcode.com/shashankkumarchoubey/)
+[![LeetCode](https://leetcard.jacoblin.cool/shashankkumarchoubey?theme=dark\&font=Karma\&ext=contest)](https://leetcode.com/shashankkumarchoubey/)
 
 ---
 
